@@ -1,11 +1,12 @@
 import "./App.css";
 import HeaderContainer from "./containers/header";
+import MapSection from "./containers/map-section";
 
 function App() {
   return (
     <div className="App">
       <HeaderContainer />
-
+      <MapSection />
       {/* IP Address Tracker Search for any IP address or domain IP Address Location
       Timezone UTC */}
       {/* <!-- add offset value dynamically using the API --> */}
