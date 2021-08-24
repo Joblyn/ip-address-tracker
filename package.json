@@ -12,6 +12,7 @@
     "imagemin-jpegtran": "^7.0.0",
     "imagemin-pngquant": "^9.0.2",
     "imagemin-svgo": "^9.0.0",
+    "leaflet": "^1.7.1",
     "normalize.css": "^8.0.1",
     "react": "^17.0.2",
     "react-bootstrap": "^1.5.2",
